@@ -1,0 +1,38 @@
+.profile-link {
+    background-color: rgb(147, 211, 211);
+    padding: 30px 20px;
+    text-align: center;
+    margin: 100px 100px 100px 0;
+    border-radius: 20px;
+}
+
+.profile-link img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.profile-link li {
+    display: block;
+    margin: 10px 0;
+}
+
+.profile-link li a {
+    color: black;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+.mt-custom {
+    margin-top: 100px;
+}
+
+.mt-custom .detail {
+    border-bottom: 1px solid rgb(91, 17, 218);
+}
+
+.text-justify {
+    text-align: justify;
+}
